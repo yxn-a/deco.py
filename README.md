@@ -16,7 +16,7 @@ XMR Address: 843FpDw81j3VSVUeoKRbuaGEVuYRkUxum7A3PHXtBPHoK7uZEUKcu39jnNEAVfiKQe8
 
 # ❤️ Donors
 
-Currently nobody supported my work, if you donated me but you dont want to be here please contact me via Session: 053b1d5d8cca9154d3806e766f694bde1eba3495fc4efb983fa6407dfbaa649845
+Currently nobody supported my work, if you want to mentioned here after your donation please contact me via Session: 053b1d5d8cca9154d3806e766f694bde1eba3495fc4efb983fa6407dfbaa649845
 
 # ❓ About me
 
