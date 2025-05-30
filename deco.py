@@ -6,7 +6,7 @@ def print_banner():
     print("\n" + "="*40)
     print("🔒 DECO.PY — MULTI-DECODER & ENCODER TOOL")
     print("="*40 + "\n")
-    print("Made by @yxn_a on github.com, Monero Donations: \n")
+    print("Made by @yxn_a on github.com, Monero Donations: \n843FpDw81j3VSVUeoKRbuaGEVuYRkUxum7A3PHXtBPHoK7uZEUKcu39jnNEAVfiKQe82RTiU2DUgRQpGjJWAyrKbKJpUdML\n")
 
 def ask_continue():
     choice = input("\n🔒 Press ENTER to continue decoding or 'q' to quit: ").strip().lower()
