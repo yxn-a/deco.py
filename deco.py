@@ -11,7 +11,7 @@ def print_banner():
 def ask_continue():
     choice = input("\n🔒 Press ENTER to continue decoding or 'q' to quit: ").strip().lower()
     if choice == 'q':
-        print("\n❤ Exiting deco.py. Bye!")
+        print("\n❤ Quitting deco.py. Bye!")
         sys.exit()
 
 def base64_menu():
